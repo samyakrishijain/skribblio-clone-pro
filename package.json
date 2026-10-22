@@ -1,0 +1,14 @@
+{
+  "name": "skribbl-godlevel",
+  "version": "1.0.0",
+  "description": "God-Level Real-Time Skribbl.io Multiplayer Drawing & Guessing Game",
+  "scripts": {
+    "dev": "node dev.js",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm run dev",
+    "build:client": "cd client && npm run build",
+    "build": "npm run build:client",
+    "start": "cd server && npm start",
+    "test": "cd server && npm test"
+  }
+}
