@@ -26,6 +26,26 @@
 
 ---
 
+## 📸 Application Previews & Screenshots
+
+| 🎨 Active Gameplay (Drawer Tools & Canvas) | 👁️ Active Gameplay (Guesser View & Live Chat) |
+| :---: | :---: |
+| ![Drawer Screen](docs/screenshots/08-active-gameplay-drawer.png) | ![Guesser Screen](docs/screenshots/07-active-gameplay-guesser.png) |
+
+| 🏠 Landing Page & Player Profile | 🎭 Procedural SVG Avatar Customizer |
+| :---: | :---: |
+| ![Home Screen](docs/screenshots/01-landing-home.png) | ![Avatar Customizer](docs/screenshots/02-avatar-customizer.png) |
+
+| 👥 Multiplayer Room Lobby | ⚙️ Host Room Settings (Rounds, Hints, Rules) |
+| :---: | :---: |
+| ![Room Lobby](docs/screenshots/04-room-lobby.png) | ![Room Settings](docs/screenshots/05-room-settings.png) |
+
+| 💡 Drawer Word Selection Modal | 🌐 Live Public Rooms Browser |
+| :---: | :---: |
+| ![Word Picker](docs/screenshots/06-word-selection.png) | ![Public Rooms](docs/screenshots/03-public-rooms.png) |
+
+---
+
 ## 🏗️ System Architecture
 
 ```
