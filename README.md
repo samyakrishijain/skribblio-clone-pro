@@ -4,6 +4,13 @@
 
 ---
 
+### 🌐 Live Production Deployment
+🚀 **Play Live Now:** **[https://skribblio-clone-pro.onrender.com/](https://skribblio-clone-pro.onrender.com/)**  
+⚡ **Health Check Endpoint:** **[https://skribblio-clone-pro.onrender.com/health](https://skribblio-clone-pro.onrender.com/health)**  
+*(Real-time multiplayer drawing, flood fill, progressive hint engine, procedural avatars, and live sound effects)*
+
+---
+
 ## 🌟 Highlights & God-Level Capabilities
 
 - 🎯 **Full OOP WebSocket Architecture**: Modular encapsulation across `Room`, `Game`, `Player`, `WordManager`, `DrawingSession`, and `RoomManager` classes.
@@ -220,7 +227,11 @@ npm test
 
 ---
 
-## 🌐 Deployment Guide
+## 🌐 Deployment & Live Access
+
+### 🚀 Verified Live Deployment
+* **Live Web App**: [https://skribblio-clone-pro.onrender.com/](https://skribblio-clone-pro.onrender.com/)
+* **System Status & Healthcheck**: [https://skribblio-clone-pro.onrender.com/health](https://skribblio-clone-pro.onrender.com/health)
 
 This project is built to deploy easily to all major cloud platforms.
 
