@@ -6,8 +6,8 @@
     "dev": "node dev.js",
     "dev:server": "cd server && npm run dev",
     "dev:client": "cd client && npm run dev",
-    "build:client": "cd client && npm run build",
-    "build": "npm run build:client",
+    "install:all": "npm install --prefix client && npm install --prefix server",
+    "build": "npm install --prefix client && npm run build --prefix client && npm install --prefix server",
     "start": "cd server && npm start",
     "test": "cd server && npm test"
   }
